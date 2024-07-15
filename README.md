@@ -1,5 +1,5 @@
 # Malaria-Detection
-Dataset
+Dataset:
 The dataset used for this project is sourced from Kaggle. It consists of two classes:
 
 Parasitized: Cells infected with malaria parasites.
